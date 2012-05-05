@@ -1,0 +1,72 @@
+F:\Luciana\JogodaForca\JogodaForca\bin\Debug\JogodaForca.exe
+F:\Luciana\JogodaForca\JogodaForca\bin\Debug\JogodaForca.pdb
+F:\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.frmJogodaforca.resources
+F:\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.Properties.Resources.resources
+F:\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.exe
+F:\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.pdb
+F:\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.frmPalavra.resources
+F:\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.exe
+F:\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.pdb
+F:\Rogério\Luciana\JogodaForca\JogodaForca\bin\Debug\JogodaForca.exe
+F:\Rogério\Luciana\JogodaForca\JogodaForca\bin\Debug\JogodaForca.pdb
+F:\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.frmJogodaforca.resources
+F:\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.frmPalavra.resources
+F:\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.Properties.Resources.resources
+F:\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\r\Desktop\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.exe
+C:\Users\r\Desktop\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.pdb
+C:\Users\r\Desktop\Rogério\Luciana\JogodaForca\JogodaForca\bin\Debug\JogodaForca.exe
+C:\Users\r\Desktop\Rogério\Luciana\JogodaForca\JogodaForca\bin\Debug\JogodaForca.pdb
+C:\Users\r\Desktop\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\r\Desktop\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.frmJogodaforca.resources
+C:\Users\r\Desktop\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.frmPalavra.resources
+C:\Users\r\Desktop\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.Properties.Resources.resources
+C:\Users\r\Desktop\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\r\Desktop\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.exe
+I:\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.pdb
+J:\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.exe
+J:\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.pdb
+J:\Rogério\Luciana\JogodaForca\JogodaForca\bin\Debug\JogodaForca.exe
+J:\Rogério\Luciana\JogodaForca\JogodaForca\bin\Debug\JogodaForca.pdb
+J:\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.frmJogodaforca.resources
+J:\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.frmPalavra.resources
+J:\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.Properties.Resources.resources
+J:\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Rogério\Luciana\JogodaForca\JogodaForca\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Rogério\Luciana\Windows Forms\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.exe
+E:\Rogério\Luciana\Windows Forms\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.pdb
+E:\Rogério\Luciana\Windows Forms\JogodaForca\JogodaForca\bin\Debug\JogodaForca.exe
+E:\Rogério\Luciana\Windows Forms\JogodaForca\JogodaForca\bin\Debug\JogodaForca.pdb
+E:\Rogério\Luciana\Windows Forms\JogodaForca\JogodaForca\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Rogério\Luciana\Windows Forms\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.frmJogodaforca.resources
+E:\Rogério\Luciana\Windows Forms\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.frmPalavra.resources
+E:\Rogério\Luciana\Windows Forms\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.Properties.Resources.resources
+E:\Rogério\Luciana\Windows Forms\JogodaForca\JogodaForca\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Rogério\Luciana\Windows Forms\JogodaForca\JogodaForca\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.exe
+E:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.pdb
+E:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\bin\Debug\JogodaForca.exe
+E:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\bin\Debug\JogodaForca.pdb
+E:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.frmJogodaforca.resources
+E:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.frmPalavra.resources
+E:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.Properties.Resources.resources
+E:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.exe
+J:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.pdb
+J:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\bin\Debug\JogodaForca.exe
+J:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\bin\Debug\JogodaForca.pdb
+J:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.frmJogodaforca.resources
+J:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.frmPalavra.resources
+J:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.Properties.Resources.resources
+J:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\GenerateResource.write.1.tlog
