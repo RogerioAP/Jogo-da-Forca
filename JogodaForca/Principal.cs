@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System;/*Rogério Almeida Pereira*/
 using System.Windows.Forms;
 
 namespace JogodaForca
@@ -45,9 +45,9 @@ namespace JogodaForca
                 pbxPernaEsquerda.Visible = true;
             }
             else if(pbxPernaDireita.Visible == false) //perna direita
-            {
+            {/*Rogério Almeida Pereira*/
                 pbxPernaDireita.Visible = true;
-                MessageBox.Show("Ihuuuuuu deu VELHA!!!!!", "Não ganhou!");
+                MessageBox.Show("Ihuuuuuu deu VELHA no jogo da Forca!!!!!", "Não ganhou!");
                 MessageBox.Show("A palavra era " + palav, "Ninguém Ganhou!!", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 Close();
             }
@@ -123,7 +123,7 @@ namespace JogodaForca
         {
             for (int i = 0; i < palav.Length; i++)
             {
-                lblPalavra.Text += "-";
+                lblPalavra.Text += "-";/*Rogério Almeida Pereira*/
             }
 
             lblLetras.Text = palav.Length.ToString() + " " + lblLetras.Text;

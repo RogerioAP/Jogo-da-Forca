@@ -17,7 +17,7 @@ namespace JogodaForca
                 MessageBox.Show("Campo não preenchido!", "Atenção", MessageBoxButtons.OK,
                                                                                 MessageBoxIcon.Error);
             }
-            else
+            else/*Rogério Almeida Pereira*/
             {
                 string pa = txtPalavra.Text, caracter = "";
                 int a=0;
@@ -99,7 +99,7 @@ namespace JogodaForca
                     txtPalavra.Text = null;
                     new frmJogodaforca().ShowDialog();//esses dois têm que ficar porque quando fechar a
                                                          //janela principal esse também será fechado
-                }
+                }/*Rogério Almeida Pereira*/
             }
         }
     }

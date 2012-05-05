@@ -70,3 +70,13 @@ J:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.frmPal
 J:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\JogodaForca.Properties.Resources.resources
 J:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\GenerateResource.read.1.tlog
 J:\Rogério\JOGOS EM C#\JogodaForca\JogodaForca\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\rogerio\.ssh\Source\jogodaforca\JogodaForca\obj\x86\Debug\JogodaForca.exe
+C:\Users\rogerio\.ssh\Source\jogodaforca\JogodaForca\obj\x86\Debug\JogodaForca.pdb
+C:\Users\rogerio\.ssh\Source\jogodaforca\JogodaForca\bin\Debug\JogodaForca.exe
+C:\Users\rogerio\.ssh\Source\jogodaforca\JogodaForca\bin\Debug\JogodaForca.pdb
+C:\Users\rogerio\.ssh\Source\jogodaforca\JogodaForca\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\rogerio\.ssh\Source\jogodaforca\JogodaForca\obj\x86\Debug\JogodaForca.frmJogodaforca.resources
+C:\Users\rogerio\.ssh\Source\jogodaforca\JogodaForca\obj\x86\Debug\JogodaForca.frmPalavra.resources
+C:\Users\rogerio\.ssh\Source\jogodaforca\JogodaForca\obj\x86\Debug\JogodaForca.Properties.Resources.resources
+C:\Users\rogerio\.ssh\Source\jogodaforca\JogodaForca\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\rogerio\.ssh\Source\jogodaforca\JogodaForca\obj\x86\Debug\GenerateResource.write.1.tlog
